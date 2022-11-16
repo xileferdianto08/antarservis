@@ -1,0 +1,17 @@
+html, body {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.bluetext{
+    color: #3d66a7;
+    text-decoration: none; 
+}
+
+.rounded-lg {
+    border-radius: 1rem;
+}
+
+  
